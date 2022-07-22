@@ -1,4 +1,4 @@
-[![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)](https://Shreyashee-Roy.io)
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm Shreyashee</h1>
 <h3 align="center">A Girl with High Ambitions!!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
