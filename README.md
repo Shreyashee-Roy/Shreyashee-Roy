@@ -5,7 +5,7 @@
 <h3 align="center">A Girl with High Ambitions!!</h3>
 
 <!-- Wrapper for positioning -->
-<div">
+<div>
   <div style="float: left; width: 60%;">
     <!-- Main content here, such as the text -->
   </div>
