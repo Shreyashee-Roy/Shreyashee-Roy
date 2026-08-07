@@ -15,7 +15,7 @@
 </div>
 
 ## 🙋‍♀️ About Me
-- 🌱 I’m currently in 4th year.
+- 🌱 I’m a BTech CSE graduate.
 - 👩‍💻 I have a good knowledge of **Frontend Development**.
 - 🏆 Champion of **Xcelerate Hackathon 2024** organised by **Oracle APEX**.
 - 📫 How to reach me **roytitli.2018@gmail.com**.
